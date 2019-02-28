@@ -1,12 +1,14 @@
 # data structure and algorithm
 
-###data structure list
+### data structure list
+
 | Name | test | 
 | ------- | ------- |
 | trie tree | simple test | 
 
 
-###algorithm list:
+### algorithm list:
+
 | Name | test | 
 | ------- | ------- |
 | permutation | simple test | 
